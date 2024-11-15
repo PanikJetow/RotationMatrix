@@ -21,3 +21,4 @@ def buildCube(start_coord, edge_length):
 
 if __name__ == "__main__":
 	main()
+test
